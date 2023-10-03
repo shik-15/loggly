@@ -1,12 +1,11 @@
 {
-    "users": [
-        {
-            "id": 0,
-            "name": "Shik"
-        }
-        {
-            "id": 30,
-            "name": "Zoe"
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
