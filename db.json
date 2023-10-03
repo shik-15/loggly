@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      "id": 30,
-      "user": "Zoe"
+      "id": 1,
+      "title": "Zoe"
     }
   ],
   "profile": {
