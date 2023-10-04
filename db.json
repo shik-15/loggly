@@ -2,12 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "user": "Sierra 117"
+      "name": "SolarWinds"
     }
-    {
-      "user": "Zoe"
-    }
-    ]
+  ],
   "profile": {
     "name": "shik-15"
   }
